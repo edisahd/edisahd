@@ -70,7 +70,7 @@
 
 <div>
   <a href='mailto:edisonsahdfilho@gmail.com' target='_blank'><img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white' /></a>
-  <a href='www.linkedin.com/in/edison-antonio-sahd-filho-1aa871136' target='_blank'><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' /></a>
+  <a href='https://www.linkedin.com/in/edison-antonio-sahd-filho-1aa871136' target='_blank'><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' /></a>
   <!---
   <a href=''><img src='https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white' /></a>
   <a href=''><img src='https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white' /></a>
