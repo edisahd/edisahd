@@ -2,10 +2,10 @@
 
 <div>
   <a href="https://github.com/edisahd">
-    <img width=500 align="center" src="https://github-readme-stats.vercel.app/api?username=edisahd&show_icons=true&theme=dark" />
+    <img width=400 align="center" src="https://github-readme-stats.vercel.app/api?username=edisahd&show_icons=true&theme=dark" />
   </a>
   <a href="https://github.com/edisahd">
-    <img width=500 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edisahd&layout=compact&theme=dark" />
+    <img width=400 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edisahd&layout=compact&theme=dark" />
   </a>
 </div>
 
