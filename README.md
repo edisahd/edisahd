@@ -27,7 +27,7 @@
 </details>
 
 <details>
-  <summary>Computer Science Professor at State University of Paraná - Apucarana</summary>
+  <summary>Professor in Computer Science at State University of Paraná - Apucarana</summary>
   <p>
     <ul>
       <li>Current subjects: Introduction to Computer Science, Data Structure, Graph Theory, Artificial Intelligence</li>
