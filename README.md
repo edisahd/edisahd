@@ -42,6 +42,16 @@
 </details>
 
 <details>
+  <summary>Past works</summary>
+  <p>
+    <ul>
+      <li>Professor at Paranaense College</li>
+      <li>Professor at Unicesumar</li>
+    </ul>
+  </p>
+</details>
+
+<details>
   <summary>I'm interested in:</summary>
   <p>
     <ul>
@@ -73,9 +83,10 @@
   <a href='https://www.linkedin.com/in/edison-antonio-sahd-filho-1aa871136' target='_blank'><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' /></a>
   <!---
   <a href=''><img src='https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white' /></a>
-  <a href=''><img src='https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white' /></a>
-  <a href=''><img src='https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white' /></a>
   --->
+  <a href='https://www.instagram.com/edisonantoniosahdfilho/'><img src='https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white' /></a>
+  <a href='https://twitter.com/EdisonSahdFilho?t=SgDcSj1NxlU-eq6ToGGb0g&s=09'><img src='https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white' /></a>
+  
 </div>
 
 ##
