@@ -31,7 +31,7 @@
   <p>
     <ul>
       <li>Current subjects: Introduction to Computer Science, Data Structure, Graph Theory, Artificial Intelligence</li>
-      <li>Past subjects: File organization, Database, Design and Analysis of Algorithms</li>
+      <li>Past subjects: File organization, Database, Design and Analysis of Algorithms, operational systems</li>
     </ul>
   </p>
 </details>
